@@ -1,6 +1,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # src-App.jsxAgency Name: Update to ProActive Conciergerie (SARL AU).
 
 Scope: Include all 4 cities: Mohammédia, Mansouria, Bouznika, and Benslimane.
@@ -13,6 +14,8 @@ Contact: Update the contact person to M. Ayoub CHAO (Founder & Manager), the ema
 
 Style: Keep the tone professional, premium, and trustworthy. Use bullet points for readability."
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -120,6 +123,9 @@ const App = () => {
 export default App;
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
