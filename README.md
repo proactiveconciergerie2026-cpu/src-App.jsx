@@ -100,7 +100,7 @@ const App = () => {
       {/* FOOTER - DONNÉES FINALES */}
       <footer className="py-12 border-t text-center text-gray-400 text-sm">
         <div className="mb-4">
-            <p className="font-extrabold text-[#1A4275] uppercase tracking-wider">PROACTIVE CONCIERGERIE SARL AU</p>
+            <p className="font-extrabold text-[#1A4275] uppercase tracking-wider">PROACTIVE CONCIERGERIE SARL AU 2026</p>
             <p className="mt-1">Gestion locative de standing & Intendance immobilière</p>
         </div>
         <p className="font-medium text-slate-500 italic">contact@proactive-conciergerie.com | +212 663 08 81 12</p>
